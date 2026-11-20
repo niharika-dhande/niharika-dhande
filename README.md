@@ -1,9 +1,9 @@
 ### Hi, I'm Niharika
 
-I'm a Generative AI Engineer and AI trainer in Indore, India. I build multi-agent systems, RAG pipelines and AI automations, and I teach engineering and business teams to build with AI themselves. 10+ years in engineering, almost 5 in training.
+I'm an AI Solutions Engineer and AI enablement coach based in Indore, India. I design and build multi-agent systems, RAG pipelines and AI automations for businesses, and I coach engineering and business teams to put AI to work in their own roles. 10+ years in engineering, almost 5 years enabling teams.
 
 - **Building:** multi-agent orchestration, hybrid retrieval and workflow automation, written up as [case studies](https://github.com/niharika-dhande/AI-Case-Studies) with the architecture, trade-offs and what I learned
-- **Teaching:** corporate AI enablement, cohorts and workshops; 500+ learners trained and 100+ people enabled with Claude Code. My latest free course: [Build Your Own MCP Server](https://promptatwork.com/training/build-your-own-mcp-server)
+- **Enabling teams:** hands-on AI enablement programmes for companies, from developers and testers to sales, marketing and HR; 500+ learners trained and 100+ people enabled with Claude Code. My latest free course: [Build Your Own MCP Server](https://promptatwork.com/training/build-your-own-mcp-server)
 - **Writing:** feature-first reviews of new AI tools and models, plus plain-language AI concept notes, at [promptatwork.com](https://promptatwork.com)
 - **Going deeper on:** agent evaluation and trajectories, AI system design at scale, and production deployment
 - **Fun fact:** I studied biotechnology before I wrote my first line of code. Pipelines were biology before they were software.
