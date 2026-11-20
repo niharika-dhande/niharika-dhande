@@ -26,6 +26,7 @@ I'm an AI Solutions Engineer and AI enablement lead based in Indore, India. I de
 
 **Case studies**
 - [AI-Case-Studies](https://github.com/niharika-dhande/AI-Case-Studies): multi-agent orchestration, hybrid RAG, AI automation and the engineering patterns behind them
+- [AI-Enablement-Case-Study](https://github.com/niharika-dhande/AI-Enablement-Case-Study): how I moved 60+ developers, testers, designers and BA/PM staff to an AI-enabled SDLC, with the 10-step execution pipeline and a reusable playbook
 
 **Courses and training material**
 - [MCP-Server](https://github.com/niharika-dhande/MCP-Server): Model Context Protocol training kit, with a student handbook, lab notebook, slide decks and runnable examples from a single MCP server to a multi-agent orchestrator
