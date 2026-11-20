@@ -1,6 +1,6 @@
 ### Hi, I'm Niharika
 
-I'm an AI Solutions Engineer and AI enablement coach based in Indore, India. I design and build multi-agent systems, RAG pipelines and AI automations for businesses, and I coach engineering and business teams to put AI to work in their own roles. 10+ years in engineering, almost 5 years enabling teams.
+I'm an AI Solutions Engineer and AI enablement lead based in Indore, India. I design and build multi-agent systems, RAG pipelines and AI automations for businesses, and I lead AI enablement for engineering and business teams so they put AI to work in their own roles. 10+ years in engineering, almost 5 years enabling teams.
 
 - **Building:** multi-agent orchestration, hybrid retrieval and workflow automation, written up as [case studies](https://github.com/niharika-dhande/AI-Case-Studies) with the architecture, trade-offs and what I learned
 - **Enabling teams:** hands-on AI enablement programmes for companies, from developers and testers to sales, marketing and HR; 500+ learners trained and 100+ people enabled with Claude Code. My latest free course: [Build Your Own MCP Server](https://promptatwork.com/training/build-your-own-mcp-server)
