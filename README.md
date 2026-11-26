@@ -13,13 +13,13 @@ I'm an AI Solutions Engineer and AI enablement lead based in Indore, India. I de
 #### Latest from Prompt at Work
 
 <!-- LATEST_WRITING:START -->
+- [Gemini 4 Neon Matches Opus 5.5, Then Overthinks a CSV Parser](https://promptatwork.com/blog/gemini-4-neon-review) <sub>AI Model Reviews · 25 Nov 2026</sub>
 - [GPT-6.2 Astra Builds Decks in Your Template. Watch for Early Stops.](https://promptatwork.com/blog/gpt-6-2-astra-review) <sub>AI Model Reviews · 22 Nov 2026</sub>
 - [Six Settings That Decide How Long Gemini 4 Carbon Makes You Wait](https://promptatwork.com/blog/gemini-4-carbon-review) <sub>AI Model Reviews · 18 Nov 2026</sub>
 - [Build Your Own MCP Server: A Free Hands-On Course](https://promptatwork.com/blog/build-your-own-mcp-server-free-course) <sub>Courses · 17 Nov 2026</sub>
 - [Claude Fable 5.2 Leads the Index, Yet Anthropic Says Keep Opus Daily](https://promptatwork.com/blog/claude-fable-5-2-review) <sub>AI Model Reviews · 15 Nov 2026</sub>
-- [Kling 4.0's Weak Spots: Surprise Music, Extra Cuts, Wobbly Text](https://promptatwork.com/blog/kling-4-0-review) <sub>AI Model Reviews · 11 Nov 2026</sub>
 
-[All 32 posts on promptatwork.com](https://promptatwork.com/blog)
+[All 33 posts on promptatwork.com](https://promptatwork.com/blog)
 <!-- LATEST_WRITING:END -->
 
 #### Portfolio
